@@ -28,4 +28,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartt-passiv)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tara-passiv)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlatimer-passiv)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://github.com/PassivUK/.github/assets/105860186/4bc8b0dc-27e0-41f2-b7dc-951378b10a1a)
