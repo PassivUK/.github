@@ -25,4 +25,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehas-passiv)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=staylor-passiv)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tara-passiv)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlatimer-passiv)](https://github.com/anuraghazra/github-readme-stats)
